@@ -1,0 +1,19 @@
+{
+    "name": "TheColorBall.Utils.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3326f7057bb6c3e4fb52459337a26743",
+        "GUID:75f0b22d708ef2d47a3d45f5aca78805"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

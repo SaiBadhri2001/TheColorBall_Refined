@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3c7017c71fe4d140ada3b2c15f11ee0, type: 3}
+  m_Name: DefaultGameProperty
+  m_EditorClassIdentifier: 
+  playerType: 0
+  initialMovementSpeed: 2
+  speedMultiplier: 0.03
+  maxMovementSpeed: 8
+  totalColors:
+  - {r: 1, g: 0.4377358, b: 0.4377358, a: 1}
+  - {r: 0.43119502, g: 1, b: 0.390566, a: 1}
+  - {r: 0.4377358, g: 0.95590085, b: 1, a: 1}
+  - {r: 1, g: 0.90588236, b: 0.39999998, a: 1}
+  - {r: 1, g: 0.48490566, b: 0.94142056, a: 1}
+  - {r: 0.48490566, g: 0.55964494, b: 1, a: 1}
+  Levels:
+  - {fileID: 6244324124799515834, guid: b56e30572da3cb74f9683464cbfbb2af, type: 3}
+  - {fileID: 7354288237676004716, guid: 0248968c2c2d4c7419f5bc4e66ecc7b7, type: 3}
+  - {fileID: 7354288237676004716, guid: 1e198be4f5ccda84d82d0500de92ad9b, type: 3}
+  - {fileID: 7354288237676004716, guid: 272295df26cf2e34a92666dd98d46c9c, type: 3}
+  - {fileID: 2179699488809936371, guid: a5043fbbd5dcb084e98aba210edfd1e3, type: 3}
+  - {fileID: 2179699488809936371, guid: 86de262f4f77d534fb70ab18bdc7c298, type: 3}
+  - {fileID: 2179699488809936371, guid: ed655bba0114dbd44b31ca27c245e790, type: 3}
+  - {fileID: 7354288237676004716, guid: 05308e3f71d776846a0f22cd8fc03528, type: 3}
+  - {fileID: 7354288237676004716, guid: a51ce45baa583dd49addfaab24682c49, type: 3}
+  - {fileID: 7354288237676004716, guid: 095a4b1af7e4b0742905d9c7edf59960, type: 3}
+  - {fileID: 7354288237676004716, guid: a08408af3d692654ea5ec15f99dde055, type: 3}
+  - {fileID: 7354288237676004716, guid: c4fe67cfc8e2f6646939d632e2faec21, type: 3}
+  - {fileID: 7354288237676004716, guid: bedf8c406f09a6e4588a47b9eb3865ea, type: 3}
+  targetFrameRate: 60
+  totalLevelsAtTime: 5
+  levelsRunsBelow: 2
+  IntialBulletDamage: 10
+  _intensity: 2

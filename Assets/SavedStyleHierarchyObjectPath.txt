@@ -1,0 +1,1 @@
+Assets/Essentials/ColorHierarchy/Colourful Hierarchy Category GameObject/Color Palette.asset
